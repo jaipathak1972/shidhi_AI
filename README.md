@@ -1,6 +1,6 @@
 # Shidhi_AI  
 
-## 🧠 Retail Margin Leak Detector (RMLD)
+## Retail Margin Leak Detector (RMLD)
 
 Retailers mostly track revenue and feel sab theek chal raha hai.  
 Sales dashboard green hai, top products move ho rahe hain.  
