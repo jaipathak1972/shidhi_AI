@@ -5,11 +5,11 @@
 Retailers mostly track revenue and feel sab theek chal raha hai.  
 Sales dashboard green hai, top products move ho rahe hain.  
 
-But real question: **profit kahaan leak ho raha hai?**
+But reality : **profit comparatively  ho raha hai?**
 
-Retail Margin Leak Detector (RMLD) is built to uncover hidden margin loss that traditional dashboards miss.
+The Retail Margin Leak Detector (RMLD) is built to uncover hidden margin loss that traditional dashboards miss.
 
-Instead of only tracking sales, RMLD learns what a *healthy margin* should look like for every SKU in every store.  
+Instead of only tracking sales and the profits, RMLD learns what a *healthy margin* should look like for every SKU in every store.  
 It studies:
 
 - Historical pricing  
